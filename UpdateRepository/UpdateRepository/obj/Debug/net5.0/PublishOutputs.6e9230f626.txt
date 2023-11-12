@@ -1,0 +1,6 @@
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\UpdateRepository.exe
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\UpdateRepository.dll
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\UpdateRepository.deps.json
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\UpdateRepository.runtimeconfig.json
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\UpdateRepository.pdb
+D:\Programování\NEW PROJECTS ON NAS\C#\UpdateRepository\UpdateRepository\UpdateRepository\UpdateRepository\bin\Debug\net5.0\publish\Spectre.Console.dll
